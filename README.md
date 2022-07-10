@@ -2,7 +2,7 @@
 
 **👨‍💻About Me**
 
-My Name is **Auau**! I like to play Minecraft with my friends! I am developing in Java, HTML and CSS!
+My Name is **Auau**! I like to play Minecraft with my friends! I am developing in Java, Python, HTML and CSS!
 
 **💻 Programming Languages**
 
