@@ -8,6 +8,7 @@ My Name is **Auau**! I like to play Minecraft with my friends! I am developing i
 
 - Python
 - Java
+- JavaScript (Learning)
 
 **💬 Social**
 
